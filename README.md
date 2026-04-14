@@ -1,2 +1,2 @@
 # PiscineReloaded
-42 Piscine Reloaded Exercises
+42 Piscine Reloaded Exercises!
